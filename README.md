@@ -1,5 +1,7 @@
 # The Tiny Code Collection in C (TCCC)
 A collection of tiny code related to *the C language*.
+
+[View star history](#starhistory)
 ## The first thing to say
 This project just collect **tiny** codes in C.
 
@@ -57,3 +59,6 @@ That‘s the all.
 
 ## Contact me
 `1085908428@qq.com` . 
+## Star History
+<div id="starhistory"></div>
+[![Star History Chart](https://api.star-history.com/svg?repos=RYSF13/TCCC&type=Date)](https://www.star-history.com/#RYSF13/TCCC&Date)
